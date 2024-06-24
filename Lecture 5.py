@@ -23,7 +23,7 @@ t.sleep(3)
 
 x = [1, 2, 3, 4, 5]
 y = time
-plt.scatter(x, y)
+plt.plot(x, y)
 plt.xlabel("Attempts")
 plt.ylabel("Time in seconds")
 plt.title("Your typing evolution")
