@@ -31,3 +31,5 @@ plt.show()
 
 
 print("Thanks for watching")
+
+print("Made by Hamid Raza")
